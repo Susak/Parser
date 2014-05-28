@@ -1,0 +1,13 @@
+E->Te
+E->-Te
+e->+Te
+e->-Te
+e->ε
+T->Ft
+t->*Ft
+t->ε
+F->Gf
+f->^Gf
+f->ε
+G->n
+G->(E)
